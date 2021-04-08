@@ -19,7 +19,7 @@ sudo apt install fail2ban
 ```
 jail.conf
 ```sh
-sudo gedit /etc/fail2ban/jail.conf
+gedit /etc/fail2ban/jail.conf
 ```
 jail.conf
 ```sh
